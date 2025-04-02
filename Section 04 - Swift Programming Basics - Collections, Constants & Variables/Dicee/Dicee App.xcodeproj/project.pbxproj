@@ -291,7 +291,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D55HXBN8NK;
-				INFOPLIST_FILE = "Dicee-iOS13/Info.plist";
+				INFOPLIST_FILE = "Dicee App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -311,7 +311,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D55HXBN8NK;
-				INFOPLIST_FILE = "Dicee-iOS13/Info.plist";
+				INFOPLIST_FILE = "Dicee App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
