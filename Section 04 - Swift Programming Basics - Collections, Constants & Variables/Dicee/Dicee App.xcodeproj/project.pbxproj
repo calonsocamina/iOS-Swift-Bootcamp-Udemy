@@ -43,7 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				ADAD913B22B0FDAE007B460A /* README.md */,
-				ADB0DFFB22AFA6090030352D /* Dicee-iOS13 */,
+				ADB0DFFB22AFA6090030352D /* Dicee App */,
 				ADB0DFFA22AFA6090030352D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -56,7 +56,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		ADB0DFFB22AFA6090030352D /* Dicee-iOS13 */ = {
+		ADB0DFFB22AFA6090030352D /* Dicee App */ = {
 			isa = PBXGroup;
 			children = (
 				ADB0DFFC22AFA6090030352D /* AppDelegate.swift */,
@@ -67,7 +67,7 @@
 				ADB0E00722AFA60E0030352D /* LaunchScreen.storyboard */,
 				ADB0E00A22AFA60E0030352D /* Info.plist */,
 			);
-			path = "Dicee-iOS13";
+			path = "Dicee App";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
