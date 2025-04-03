@@ -16,10 +16,7 @@ class ViewController: UIViewController {
         
         let ballArray = [#imageLiteral(resourceName: "ball4"),#imageLiteral(resourceName: "ball5"),#imageLiteral(resourceName: "ball4"),#imageLiteral(resourceName: "ball2"),#imageLiteral(resourceName: "ball2")]
         
-        imageView.image = ballArray[2]
-        
-        
-        
+        imageView.image = ballArray[Int.random(in: 0...4)]
     }
     
 }
