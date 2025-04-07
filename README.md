@@ -20,11 +20,12 @@ The goal of this repository is to:
 The repository is organized by course sections. Each section includes completed apps and practice challenges.
 
 ### 📁 Folder Structure:
-- `Section 02`: Introduction to Xcode & Interface Builder (`I Am Rich`)
-- `Section 03`: UI Elements, Layouts, Assets (`I Am Poor`)
-- `Section 04`: Swift Programming Basics - Constants, Variables & Collections (`Dicee App 🎲` & Magic Ball 🎱)
-- `Section 07`: Using and Understanding Apple Documentation (`Xylophone 🎶`)
-- `Section 08`: Intermediate Swift Programming - Control Flow and Optionals (`EggTimer 🥚`)
+- Section 02: Introduction to Xcode & Interface Builder (I Am Rich)
+- Section 03: UI Elements, Layouts, Assets (I Am Poor)
+- Section 04: Swift Programming Basics - Constants, Variables & Collections (Dicee App 🎲 & Magic Ball 🎱)
+- Section 07: Using and Understanding Apple Documentation (Xylophone 🎶)
+- Section 08: Intermediate Swift Programming - Control Flow and Optionals (EggTimer 🥚)
+- Section 09: iOS App Design Patterns and Code Structuring (Quizzler ❓)
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -52,6 +53,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 | 05      | Magic Ball 🎱                   | ✅ Completed |
 | 07      | Xylophone 🎶                    | ✅ Completed |
 | 08      | EggTimer 🥚                     | ✅ Completed |
+| 09      | Quizzler ❓                      | ✅ Completed |
 
 ✅ More sections coming soon...
 
@@ -64,6 +66,8 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - Auto Layout and responsive design
 - Asset management and app publishing basics
 - Version control with Git & GitHub
+- **Use of `structs`, computed properties, and methods**
+- **Applying MVM architecture for scalable code organization**
 
 ---
 
