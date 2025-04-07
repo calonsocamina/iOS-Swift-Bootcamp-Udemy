@@ -24,6 +24,7 @@ The repository is organized by course sections. Each section includes completed 
 - `Section 03`: UI Elements, Layouts, Assets (`I Am Poor`)
 - `Section 04`: Swift Programming Basics - Constants, Variables & Collections (`Dicee App 🎲` & Magic Ball 🎱)
 - `Section 07`: Using and Understanding Apple Documentation (`Xylophone 🎶`)
+- `Section 08`: Intermediate Swift Programming - Control Flow and Optionals (`EggTimer 🥚`)
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -50,6 +51,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 | 04      | Dicee App 🎲                    | ✅ Completed |
 | 05      | Magic Ball 🎱                   | ✅ Completed |
 | 07      | Xylophone 🎶                    | ✅ Completed |
+| 08      | EggTimer 🥚                     | ✅ Completed |
 
 ✅ More sections coming soon...
 
