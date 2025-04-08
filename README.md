@@ -28,6 +28,7 @@ The repository is organized by course sections. Each section includes completed 
 - Section 09: iOS App Design Patterns and Code Structuring (Quizzler ❓)
 - Section 10: iOS App Design Pattern Challenge (Destini 🔮)
 - Section 11: Advanced Swift Programming: Classes, Inheritance & Advanced Optionals (BMI Calculator 🧮)
+- Section 12: Advanced Swift Programming Challenge (Tipsy 🍸)
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -58,6 +59,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 | 09      | Quizzler ❓                     | ✅ Completed |
 | 10      | Destini 🔮                      | ✅ Completed |
 | 11      | BMI Calculator 🧮               | ✅ Completed |
+| 12      | Tipsy 🍸                        | ✅ Completed |
 
 ✅ More sections coming soon...
 
@@ -73,7 +75,8 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - Use of `structs`, computed properties, and methods
 - Applying MVM architecture for scalable code organization
 - Design pattern application through challenge-based learning
-- **Class-based architecture, inheritance, computed properties & multiple screens (BMI Calculator)**
+- Class-based architecture, inheritance, computed properties & multiple screens (BMI Calculator)
+- Practical UI control flow with custom logic & value passing across screens (Tipsy)
 
 ---
 
