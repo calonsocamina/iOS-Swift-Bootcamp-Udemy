@@ -106,6 +106,9 @@
                                             </userDefinedRuntimeAttribute>
                                             <userDefinedRuntimeAttribute type="boolean" keyPath="clipsToBounds" value="YES"/>
                                         </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="calculatePressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cLG-x3-3zT"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                             </stackView>
@@ -125,17 +128,19 @@
                     </view>
                     <connections>
                         <outlet property="heightLabel" destination="lHE-PA-lVf" id="o8e-W3-8NY"/>
+                        <outlet property="heightSlider" destination="Pky-qY-oVp" id="EeU-fS-ERK"/>
                         <outlet property="weightLabel" destination="xw8-bR-YUu" id="QpR-JB-j6M"/>
+                        <outlet property="weightSlider" destination="s2X-C5-Zcz" id="k3X-X2-9QG"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="139" y="138"/>
         </scene>
-        <!--View Controller-->
+        <!--Results View Controller-->
         <scene sceneID="QA2-bS-5c1">
             <objects>
-                <viewController id="lkq-xS-Cin" sceneMemberID="viewController">
+                <viewController id="lkq-xS-Cin" customClass="ResultsViewController" customModule="BMI_Calculator" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="A2l-zF-O8p">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
