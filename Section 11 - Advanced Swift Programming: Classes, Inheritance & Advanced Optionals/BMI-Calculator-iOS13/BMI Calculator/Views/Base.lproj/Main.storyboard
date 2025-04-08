@@ -127,9 +127,10 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="heightLabel" destination="2GN-cs-U2z" id="Tsl-Fv-cGG"/>
-                        <outlet property="weightLabel" destination="qI8-dT-A9l" id="MGh-5M-QvM"/>
-                        <outlet property="weightSlider" destination="s2X-C5-Zcz" id="k3X-X2-9QG"/>
+                        <outlet property="heightLabel" destination="Xcz-1j-2c9" id="dFt-hF-UJl"/>
+                        <outlet property="heightSlider" destination="Pky-qY-oVp" id="ura-VG-Uea"/>
+                        <outlet property="weightLabel" destination="LTF-aL-8qu" id="W9Y-JC-g39"/>
+                        <outlet property="weightSlider" destination="s2X-C5-Zcz" id="qw0-Xj-C96"/>
                         <segue destination="lkq-xS-Cin" kind="presentation" identifier="goToResult" id="iVK-l0-sVa"/>
                     </connections>
                 </viewController>
@@ -137,10 +138,10 @@
             </objects>
             <point key="canvasLocation" x="139" y="138"/>
         </scene>
-        <!--Results View Controller-->
+        <!--Result View Controller-->
         <scene sceneID="QA2-bS-5c1">
             <objects>
-                <viewController id="lkq-xS-Cin" customClass="ResultsViewController" customModule="BMI_Calculator" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="lkq-xS-Cin" customClass="ResultViewController" customModule="BMI_Calculator" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="A2l-zF-O8p">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="838"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
