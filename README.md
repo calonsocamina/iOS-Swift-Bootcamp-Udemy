@@ -29,6 +29,7 @@ The repository is organized by course sections. Each section includes completed 
 - Section 10: iOS App Design Pattern Challenge (Destini 🔮)
 - Section 11: Advanced Swift Programming: Classes, Inheritance & Advanced Optionals (BMI Calculator 🧮)
 - Section 12: Advanced Swift Programming Challenge (Tipsy 🍸)
+- Section 13: Networking, JSON Parsing, APIs and Core Location (Clima 🌤️)
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -48,18 +49,19 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 
 ## ✅ Progress
 
-| Section | Project(s)                      | Status      |
-|---------|---------------------------------|-------------|
-| 02      | I Am Rich                       | ✅ Completed |
-| 03      | I Am Poor                       | ✅ Completed |
-| 04      | Dicee App 🎲                    | ✅ Completed |
-| 05      | Magic Ball 🎱                   | ✅ Completed |
-| 07      | Xylophone 🎶                    | ✅ Completed |
-| 08      | EggTimer 🥚                     | ✅ Completed |
-| 09      | Quizzler ❓                     | ✅ Completed |
-| 10      | Destini 🔮                      | ✅ Completed |
-| 11      | BMI Calculator 🧮               | ✅ Completed |
-| 12      | Tipsy 🍸                        | ✅ Completed |
+| Section | Project(s)                      | Status         |
+|---------|---------------------------------|----------------|
+| 02      | I Am Rich                       | ✅ Completed    |
+| 03      | I Am Poor                       | ✅ Completed    |
+| 04      | Dicee App 🎲                    | ✅ Completed    |
+| 05      | Magic Ball 🎱                   | ✅ Completed    |
+| 07      | Xylophone 🎶                    | ✅ Completed    |
+| 08      | EggTimer 🥚                     | ✅ Completed    |
+| 09      | Quizzler ❓                     | ✅ Completed    |
+| 10      | Destini 🔮                      | ✅ Completed    |
+| 11      | BMI Calculator 🧮               | ✅ Completed    |
+| 12      | Tipsy 🍸                        | ✅ Completed    |
+| 13      | Clima 🌤️                        | 🛠️ In progress  |
 
 ✅ More sections coming soon...
 
@@ -75,8 +77,9 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - Use of `structs`, computed properties, and methods
 - Applying MVM architecture for scalable code organization
 - Design pattern application through challenge-based learning
-- Class-based architecture, inheritance, computed properties & multiple screens (BMI Calculator)
-- Practical UI control flow with custom logic & value passing across screens (Tipsy)
+- Class-based architecture, inheritance, computed properties & multiple screens
+- Practical UI control flow with custom logic & value passing across screens
+- Networking, JSON parsing, API requests and Core Location usage
 
 ---
 
