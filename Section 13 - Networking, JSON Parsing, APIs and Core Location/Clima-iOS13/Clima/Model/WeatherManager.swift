@@ -13,8 +13,35 @@ struct WeatherManager {
     let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=f515719a3de8b51a18ab171fb98f4300&units=metric"
     
     //Func to get the city name from WeatherController that we want to fetch on API
-    func fetchWeather (cityName: String) {
+    func fetchWeather(cityName: String) {
         let urlString = "\(weatherURL)&q=\(cityName)"
-        print(urlString)
+        performRequest(urlString: urlString)
+    }
+    
+    func performRequest(urlString: String) {
+        //1. Create a URL
+        if let url = URL(string: urlString) {
+            //2. Create a URLSession
+            let session = URLSession(configuration: .default)
+            
+            //3. Give the session a task
+            let task = session.dataTask(with: url, completionHandler: handle(data:reponse:error:))
+            
+            //4. Start the task
+            task.resume()
+        }
+    }
+    
+    //Function destinated to cover the completionHandler when we give a task to the session on performRequest()
+    func handle(data: Data?, reponse: URLResponse?, error: Error?) {
+        if error != nil {
+            print(error!)
+            return
+        }
+        
+        if let safeData = data {
+            let dataString = String(data: safeData, encoding: .utf8)
+            print(dataString)
+        }
     }
 }
