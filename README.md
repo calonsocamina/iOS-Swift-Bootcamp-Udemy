@@ -30,6 +30,7 @@ The repository is organized by course sections. Each section includes completed 
 - Section 11: Advanced Swift Programming: Classes, Inheritance & Advanced Optionals (BMI Calculator 🧮)
 - Section 12: Advanced Swift Programming Challenge (Tipsy 🍸)
 - Section 13: Networking, JSON Parsing, APIs and Core Location (Clima 🌤️)
+- Section 14: Networking and API Challenge
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -61,9 +62,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 | 10      | Destini 🔮                      | ✅ Completed    |
 | 11      | BMI Calculator 🧮               | ✅ Completed    |
 | 12      | Tipsy 🍸                        | ✅ Completed    |
-| 13      | Clima 🌤️                        | 🛠️ In progress  |
-
-✅ More sections coming soon...
+| 13      | Clima 🌤️                        | ✅ Completed    |
 
 ---
 
