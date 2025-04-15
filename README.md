@@ -31,7 +31,7 @@ The repository is organized by course sections. Each section includes completed 
 - Section 12: Advanced Swift Programming Challenge (Tipsy 🍸)
 - Section 13: Networking, JSON Parsing, APIs and Core Location (Clima 🌤️)
 - Section 14: Networking and API Challenge (ByteCoin 🪙)
-- Section 15: Firebase Cloud Firestore, TableViews and Cocoapod Dependencies (Flash Chat 💬 – *in progress*)
+- Section 15: Firebase Cloud Firestore, TableViews and Cocoapod Dependencies (Flash Chat 💬)
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -46,6 +46,8 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - **SF Symbols**
 - **Auto Layout**
 - **Git & GitHub**
+- **Firebase & Cloud Firestore**
+- **CocoaPods Dependency Manager**
 
 ---
 
@@ -65,7 +67,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 | 12      | Tipsy 🍸                        | ✅ Completed    |
 | 13      | Clima 🌤️                        | ✅ Completed    |
 | 14      | ByteCoin 🪙                     | ✅ Completed    |
-| 15      | Flash Chat 💬                   | 🛠️ In progress  |
+| 15      | Flash Chat 💬                   | ✅ Completed    |
 
 ---
 
@@ -82,8 +84,10 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - Class-based architecture, inheritance, computed properties & multiple screens
 - Practical UI control flow with custom logic & value passing across screens
 - Networking, JSON parsing, API requests and Core Location usage
-- Working with external APIs & currency conversion (ByteCoin)
-- Firebase integration, Cloud Firestore, TableViews & Cocoapods
+- Working with external APIs & currency conversion
+- Firebase integration, Cloud Firestore database, Authentication
+- TableViews management & dynamic content
+- Dependency management using Cocoapods
 
 ---
 
