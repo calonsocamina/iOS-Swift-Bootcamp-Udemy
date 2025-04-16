@@ -32,7 +32,7 @@ The repository is organized by course sections. Each section includes completed 
 - Section 13: Networking, JSON Parsing, APIs and Core Location (Clima 🌤️)
 - Section 14: Networking and API Challenge (ByteCoin 🪙)
 - Section 15: Firebase Cloud Firestore, TableViews and Cocoapod Dependencies (Flash Chat 💬)
-- Section 17: Getting Started with SwiftUI (I Am Rich – SwiftUI 💎 & CarlosCard 👤)
+- Section 17: Getting Started with SwiftUI (I Am Rich – SwiftUI 💎, CarlosCard 👤, Dicee-SwiftUI 🎲, H4X0R 🧑‍💻)
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -55,23 +55,21 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 
 ## ✅ Progress
 
-| Section | Project(s)                             | Status         |
-|---------|----------------------------------------|----------------|
-| 02      | I Am Rich                              | ✅ Completed    |
-| 03      | I Am Poor                              | ✅ Completed    |
-| 04      | Dicee App 🎲                           | ✅ Completed    |
-| 05      | Magic Ball 🎱                          | ✅ Completed    |
-| 07      | Xylophone 🎶                           | ✅ Completed    |
-| 08      | EggTimer 🥚                            | ✅ Completed    |
-| 09      | Quizzler ❓                            | ✅ Completed    |
-| 10      | Destini 🔮                             | ✅ Completed    |
-| 11      | BMI Calculator 🧮                      | ✅ Completed    |
-| 12      | Tipsy 🍸                               | ✅ Completed    |
-| 13      | Clima 🌤️                               | ✅ Completed    |
-| 14      | ByteCoin 🪙                            | ✅ Completed    |
-| 15      | Flash Chat 💬                          | ✅ Completed    |
-| 17      | I Am Rich – SwiftUI 💎                 | ✅ Completed    |
-| 17      | CarlosCard 👤                          | ✅ Completed    |
+| Section | Project(s)                                                                 | Status         |
+|---------|----------------------------------------------------------------------------|----------------|
+| 02      | I Am Rich                                                                  | ✅ Completed    |
+| 03      | I Am Poor                                                                  | ✅ Completed    |
+| 04      | Dicee App 🎲 & Magic Ball 🎱                                               | ✅ Completed    |
+| 07      | Xylophone 🎶                                                               | ✅ Completed    |
+| 08      | EggTimer 🥚                                                                | ✅ Completed    |
+| 09      | Quizzler ❓                                                                | ✅ Completed    |
+| 10      | Destini 🔮                                                                 | ✅ Completed    |
+| 11      | BMI Calculator 🧮                                                          | ✅ Completed    |
+| 12      | Tipsy 🍸                                                                   | ✅ Completed    |
+| 13      | Clima 🌤️                                                                   | ✅ Completed    |
+| 14      | ByteCoin 🪙                                                                | ✅ Completed    |
+| 15      | Flash Chat 💬                                                              | ✅ Completed    |
+| 17      | I Am Rich – SwiftUI 💎, CarlosCard 👤, Dicee-SwiftUI 🎲, H4X0R 🧑‍💻         | ✅ Completed    |
 
 ---
 
