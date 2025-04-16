@@ -33,6 +33,7 @@ The repository is organized by course sections. Each section includes completed 
 - Section 14: Networking and API Challenge (ByteCoin 🪙)
 - Section 15: Firebase Cloud Firestore, TableViews and Cocoapod Dependencies (Flash Chat 💬)
 - Section 17: Getting Started with SwiftUI (I Am Rich – SwiftUI 💎, CarlosCard 👤, Dicee-SwiftUI 🎲, H4X0R 🧑‍💻)
+- Section 19: Local Data Persistance - User Defaults, Core Data and Realm (Todoey 📝)
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -50,6 +51,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - **Git & GitHub**
 - **Firebase & Cloud Firestore**
 - **CocoaPods Dependency Manager**
+- **UserDefaults, Core Data & Realm**
 
 ---
 
@@ -70,6 +72,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 | 14      | ByteCoin 🪙                                                                | ✅ Completed    |
 | 15      | Flash Chat 💬                                                              | ✅ Completed    |
 | 17      | I Am Rich – SwiftUI 💎, CarlosCard 👤, Dicee-SwiftUI 🎲, H4X0R 🧑‍💻         | ✅ Completed    |
+| 19      | Todoey 📝                                                                  | 🛠️ In progress  |
 
 ---
 
@@ -91,6 +94,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - Firebase integration, Cloud Firestore database, Authentication
 - TableViews management & dynamic content
 - Dependency management using Cocoapods
+- UserDefaults, Core Data and Realm for persistent local data storage
 
 ---
 
