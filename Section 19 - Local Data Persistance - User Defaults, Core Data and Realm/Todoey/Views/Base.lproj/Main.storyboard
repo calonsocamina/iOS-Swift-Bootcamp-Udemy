@@ -35,7 +35,7 @@
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="0o3-gK-9S6">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
-                                <action selector="assButtonPressed:" destination="LJ1-JD-NTd" id="WVO-dH-T41"/>
+                                <action selector="addButtonPressed:" destination="LJ1-JD-NTd" id="WVO-dH-T41"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
