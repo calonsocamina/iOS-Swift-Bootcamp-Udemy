@@ -1,0 +1,26 @@
+platform :ios, '12.0'
+
+project 'Todoey.xcodeproj'
+
+target 'Todoey' do
+  use_frameworks!
+
+  # Pods for Todoey
+  pod 'RealmSwift', '~> 10.28.6'
+
+end
+
+# 🔧 Esta sección evita errores de rutas con espacios y conflictos de build en Realm
+post_install do |installer|
+  installer.pods_project.build_configurations.each do |config|
+    # Soluciona error en simulador con arquitectura arm64
+    config.build_settings['EXCLUDED_ARCHS[sdk=iphonesimulator*]'] = 'arm64'
+  end
+
+  installer.pods_project.targets.each do |target|
+    target.build_configurations.each do |config|
+      # Asegura que CocoaPods maneje bien las rutas y genera correctamente los binarios
+      config.build_settings['CONFIGURATION_BUILD_DIR'] = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)"
+    end
+  end
+end
