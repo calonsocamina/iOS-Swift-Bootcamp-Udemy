@@ -33,7 +33,7 @@ class ViewController: UIViewController {
                 displayLabel.text = numValue
                 isFinishedTypingNumber = false
             } else {
-                displayLabel.text! += numValue
+                displayLabel.text! += numValue //PRUEBA, BORRAR COMENTARIO
             }
         }
     }
