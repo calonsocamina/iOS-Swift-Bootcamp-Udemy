@@ -34,6 +34,7 @@ The repository is organized by course sections. Each section includes completed 
 - Section 15: Firebase Cloud Firestore, TableViews and Cocoapod Dependencies (Flash Chat 💬)
 - Section 17: Getting Started with SwiftUI (I Am Rich – SwiftUI 💎, CarlosCard 👤, Dicee-SwiftUI 🎲, H4X0R 🧑‍💻)
 - Section 19: Local Data Persistance - User Defaults, Core Data and Realm (Todoey 📝)
+- Section 22: Advanced Swift Classroom (Calculator-Advanced-Swift-iOS13 🧠)
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -73,6 +74,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 | 15      | Flash Chat 💬                                                              | ✅ Completed    |
 | 17      | I Am Rich – SwiftUI 💎, CarlosCard 👤, Dicee-SwiftUI 🎲, H4X0R 🧑‍💻         | ✅ Completed    |
 | 19      | Todoey 📝                                                                  | ✅ Completed    |
+| 22      | Calculator-Advanced-Swift-iOS13 🧠                                         | 🛠️ In progress  |
 
 ---
 
