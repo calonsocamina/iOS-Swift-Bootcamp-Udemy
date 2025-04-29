@@ -74,7 +74,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 | 15      | Flash Chat 💬                                                              | ✅ Completed    |
 | 17      | I Am Rich – SwiftUI 💎, CarlosCard 👤, Dicee-SwiftUI 🎲, H4X0R 🧑‍💻         | ✅ Completed    |
 | 19      | Todoey 📝                                                                  | ✅ Completed    |
-| 22      | Calculator-Advanced-Swift-iOS13 🧠                                         | 🛠️ In progress  |
+| 22      | Calculator-Advanced-Swift-iOS13 🧠                                         | ✅ Completed  |
 
 ---
 
