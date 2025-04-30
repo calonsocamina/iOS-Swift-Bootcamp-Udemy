@@ -85,7 +85,7 @@ class QuoteTableViewController: UITableViewController, SKPaymentTransactionObser
     
     func buyPremiumQuotes() {
         if SKPaymentQueue.canMakePayments() {
-            //Can make payments
+            //Can make payments at the moment
             
            let paymentRequest = SKMutablePayment()
             paymentRequest.productIdentifier = productID
@@ -93,13 +93,14 @@ class QuoteTableViewController: UITableViewController, SKPaymentTransactionObser
             
             
         } else {
-            //Can't make payments
+            //Can't make payments at the moment
             print("User can't make payments")
         }
     }
     
     func paymentQueue(_ queue: SKPaymentQueue, updatedTransactions transactions: [SKPaymentTransaction]) {
         
+        //For the individual transaction inside the array of transactions
         for transaction in transactions {
             if transaction.transactionState == .purchased {
                 
