@@ -36,7 +36,7 @@ The repository is organized by course sections. Each section includes completed 
 - Section 19: Local Data Persistance - User Defaults, Core Data and Realm (Todoey 📝)
 - Section 20: In-App Purchases and Apple StoreKit (InspoQuotes 💬💸)
 - Section 22: Advanced Swift Classroom (Calculator-Advanced-Swift-iOS13 🧠)
-- Section 23: CoreML and Machine Learning (SeaFood 🐟 – In Progress)
+- Section 23: CoreML and Machine Learning (SeaFood 🐟)
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -81,7 +81,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 | 19      | Todoey 📝                                                                  | ✅ Completed    |
 | 20      | InspoQuotes 💬💸                                                           | ✅ Completed    |
 | 22      | Calculator-Advanced-Swift-iOS13 🧠                                         | ✅ Completed    |
-| 23      | SeaFood 🐟                                                                 | 🚧 In Progress |
+| 23      | SeaFood 🐟                                                                 | ✅ Completed |
 
 ---
 
