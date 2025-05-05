@@ -36,6 +36,7 @@ The repository is organized by course sections. Each section includes completed 
 - Section 19: Local Data Persistance - User Defaults, Core Data and Realm (Todoey 📝)
 - Section 20: In-App Purchases and Apple StoreKit (InspoQuotes 💬💸)
 - Section 22: Advanced Swift Classroom (Calculator-Advanced-Swift-iOS13 🧠)
+- Section 23: CoreML and Machine Learning (SeaFood 🐟 – In Progress)
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -55,6 +56,8 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - **CocoaPods Dependency Manager**
 - **UserDefaults, Core Data & Realm**
 - **StoreKit & In-App Purchases (IAP)**
+- **CoreML & Vision Framework**
+- **Image Classification with ML Models**
 
 ---
 
@@ -76,8 +79,9 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 | 15      | Flash Chat 💬                                                              | ✅ Completed    |
 | 17      | I Am Rich – SwiftUI 💎, CarlosCard 👤, Dicee-SwiftUI 🎲, H4X0R 🧑‍💻         | ✅ Completed    |
 | 19      | Todoey 📝                                                                  | ✅ Completed    |
-| 20      | InspoQuotes 💬💸                                                                  | ✅ Completed    |
-| 22      | Calculator-Advanced-Swift-iOS13 🧠                                         | ✅ Completed  |
+| 20      | InspoQuotes 💬💸                                                           | ✅ Completed    |
+| 22      | Calculator-Advanced-Swift-iOS13 🧠                                         | ✅ Completed    |
+| 23      | SeaFood 🐟                                                                 | 🚧 In Progress |
 
 ---
 
@@ -90,7 +94,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - Asset management and app publishing basics
 - Version control with Git & GitHub
 - Use of structs, computed properties, and methods
-- Applying MVM architecture for scalable code organization
+- Applying MVVM architecture for scalable code organization
 - Design pattern application through challenge-based learning
 - Class-based architecture, inheritance, computed properties & multiple screens
 - Practical UI control flow with custom logic & value passing across screens
@@ -104,6 +108,9 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - Testing purchases in Sandbox environment
 - Managing product identifiers and app entitlements for monetization
 - Implementing purchase logic and handling transaction states
+- Using CoreML to integrate machine learning models in iOS apps
+- Image recognition and classification with Vision & CoreML
+- Deploying .mlmodel files for local inference and prediction
 
 ---
 
