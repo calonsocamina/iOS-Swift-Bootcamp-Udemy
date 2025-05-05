@@ -50,7 +50,13 @@ class ViewController: UIViewController,
                 fatalError("Model failed to produce valid results")
             }
             
-            print(results)
+            if let firstResult = results.first {
+                if firstResult.identifier.contains("hotdog") {
+                    self.navigationItem.title = "Hot Dog!"
+                } else {
+                    self.navigationItem.title = "Not a Hot Dog"
+                }
+            }
         }
         
         let handler = VNImageRequestHandler(ciImage: image)
