@@ -37,7 +37,6 @@ The repository is organized by course sections. Each section includes completed 
 - Section 20: In-App Purchases and Apple StoreKit (InspoQuotes 💬💸)
 - Section 22: Advanced Swift Classroom (Calculator-Advanced-Swift-iOS13 🧠)
 - Section 23: CoreML and Machine Learning (SeaFood 🐟)
-- Section 24: Advanced CoreML Tools & Converting Models (BetterClassifier 🧬 – 🚧 In Progress)
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -58,7 +57,6 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - **UserDefaults, Core Data & Realm**
 - **StoreKit & In-App Purchases (IAP)**
 - **CoreML & Vision Framework**
-- **Image Classification with ML Models**
 
 ---
 
@@ -83,7 +81,6 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 | 20      | InspoQuotes 💬💸                                                           | ✅ Completed    |
 | 22      | Calculator-Advanced-Swift-iOS13 🧠                                         | ✅ Completed    |
 | 23      | SeaFood 🐟                                                                 | ✅ Completed |
-| 24      | BetterClassifier 🧬                                                                 | 🚧 In Progress |
 
 ---
 
@@ -113,8 +110,6 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - Using CoreML to integrate machine learning models in iOS apps
 - Image recognition and classification with Vision & CoreML
 - Deploying .mlmodel files for local inference and prediction
-- Converting external models (e.g. Keras, TensorFlow) to .mlmodel with coremltools
-- Custom model integration and testing in real-time
 
 ---
 
