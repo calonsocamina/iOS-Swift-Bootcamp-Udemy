@@ -38,7 +38,6 @@ fastlane/test_output
 GoogleService-Info.plist
 
 # === SPM Playgrounds ===
-*.playground/
 timeline.xctimeline
 
 # === User-specific files ===
