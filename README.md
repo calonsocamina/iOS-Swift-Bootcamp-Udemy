@@ -37,6 +37,7 @@ The repository is organized by course sections. Each section includes completed 
 - Section 20: In-App Purchases and Apple StoreKit (InspoQuotes 💬💸)
 - Section 22: Advanced Swift Classroom (Calculator-Advanced-Swift-iOS13 🧠)
 - Section 23: CoreML and Machine Learning (SeaFood 🐟)
+- Section 25: CreateML - Building your own Machine Learning Model from scratch (MyImageClassifier 🧠📸)
 
 Each folder contains a fully functional Xcode project with clean code, updated structure, and custom modifications as I progress through the course.
 
@@ -57,6 +58,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - **UserDefaults, Core Data & Realm**
 - **StoreKit & In-App Purchases (IAP)**
 - **CoreML & Vision Framework**
+- **CreateML**
 
 ---
 
@@ -81,6 +83,7 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 | 20      | InspoQuotes 💬💸                                                           | ✅ Completed    |
 | 22      | Calculator-Advanced-Swift-iOS13 🧠                                         | ✅ Completed    |
 | 23      | SeaFood 🐟                                                                 | ✅ Completed |
+| 25      | MyImageClassifier 🧠📸                                                                 | ✅ Completed |
 
 ---
 
@@ -110,6 +113,8 @@ Each folder contains a fully functional Xcode project with clean code, updated s
 - Using CoreML to integrate machine learning models in iOS apps
 - Image recognition and classification with Vision & CoreML
 - Deploying .mlmodel files for local inference and prediction
+- Creating custom machine learning models from scratch using CreateML
+- Training and deploying personalized .mlmodel files like MyImageClassifier
 
 ---
 
